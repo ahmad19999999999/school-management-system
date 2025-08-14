@@ -33,7 +33,7 @@ The backend is built with **Node.js + Express**, and the frontend with **React.j
 ---
 
 ## 📂 Project Structure
-
+```
 school-management/
 │
 ├── backend/                   # Node.js + Express server
@@ -52,7 +52,7 @@ school-management/
 │   └── package.json
 │
 └── README.md                   # Project documentation
-  
+  ```
 
 ---
 
