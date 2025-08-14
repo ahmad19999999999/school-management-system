@@ -1,4 +1,4 @@
-# 📚 School Management System
+# 📚 Fullstack School Management System
 
 A complete web application for managing school operations, including students, teachers, subjects, schedules, and attendance, with an intuitive admin dashboard.  
 The backend is built with **Node.js + Express**, and the frontend with **React.js**.
